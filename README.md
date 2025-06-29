@@ -149,13 +149,13 @@ Parsing successful for file: submission.csv
 ```
 
 ## 🧠 Learnings
-OCR on real-world product images requires robust preprocessing.
+- OCR on real-world product images requires robust preprocessing.
 
-OCR accuracy varies significantly across fonts and lighting.
+- OCR accuracy varies significantly across fonts and lighting.
 
-Entity extraction requires careful rule design and regex patterns.
+- Entity extraction requires careful rule design and regex patterns.
 
-Unit normalization and strict formatting are essential for evaluation.
+- Unit normalization and strict formatting are essential for evaluation.
 
 ## 👥 Team
 🧑‍💻 Akshay Kumar
