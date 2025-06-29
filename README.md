@@ -159,7 +159,7 @@ Parsing successful for file: submission.csv
 
 ## 👥 Team
 🧑‍💻 Akshay Kumar
-Team AIvengers | B.Tech in Robotics and AI, VIT Chennai
+| B.Tech with Sp. in Artificial Intelligence and Machine Learning, VIT Chennai
 
 ## 📄 License
 This repository is open-sourced for learning purposes.
